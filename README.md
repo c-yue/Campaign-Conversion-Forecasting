@@ -5,7 +5,7 @@
 
 My goal is to predict who is likely to make a donation to the charity for the fundraising campaign “C189” (%), 
 and how much money they are likely to give if they do (€). 
-By combining these two predictions (%  €), I will obtain an expected revenue from each individual.
+By combining these two predictions (% * €), I will obtain an expected revenue from each individual.
 
 Every solicitation costs 2.00 € (a fake, unrealistic figure used for the purpose of this exercise).
 If the expected revenue I have predicted exceeds that figure of 2 €, I will recommend the charity
