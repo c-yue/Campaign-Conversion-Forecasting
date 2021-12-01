@@ -1,7 +1,7 @@
 # Campaign-Conversion-Forecasting
 
 #### Assignment 2 (of Marketing Analytics) is a predictive modeling exercise. 
-#### My objective is to maximize the financial performance of that campaign for the charity.
+#### My objective is to maximize the financial performance of a specific campaign for a charity.
 
 My goal is to predict who is likely to make a donation to the charity for the fundraising campaign “C189” (%), 
 and how much money they are likely to give if they do (€). 
